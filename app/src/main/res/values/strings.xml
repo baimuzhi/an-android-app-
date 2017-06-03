@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Geek之路</string>
+    <string name="app_desc">在这里从小白开始成长为大牛</string>
+
+
+    <string name="main_home">首页</string>
+    <string name="main_mine">我的</string>
+    <string name="main_reading">资讯</string>
+    <string name="main_only_wifi">仅WIFI加载图片</string>
+
+    <string name="mine_login">用户登录</string>
+    <string name="mine_no_login">此功能需要登录</string>
+    <string name="mine_click_login">点我登录</string>
+    <string name="mine_collect">我的收藏</string>
+    <string name="mine_cache_clear">缓存清理</string>
+    <string name="mine_exit">退出登录</string>
+    <string name="mine_about">关于应用</string>
+    <string name="mine_share">分享</string>
+    <string name="mine_feedback">意见反馈</string>
+
+    <string name="feedback_dialog_title">您宝贵的反馈建议</string>
+    <string name="feedback_input_hint">可直接到Github提Issues</string>
+    <string name="feedback_input_prefill"></string>
+    <string name="feedback_success">提交成功</string>
+    <string name="feedback_failed">提交失败</string>
+
+    <string name="app_share">LittleGeek还不错哦</string>
+    <string name="about_msg">
+        此应用实现包括了最新干货查看、分类查看、闲读以及站内搜索，
+        还可对感兴趣的信息收藏。
+     </string>
+    <string name="about_author">作者:BAIMUZHI</string>
+    <string name="about_github"></string>
+    <string name="about_blog"></string>
+    <string name="about_weibo"></string>
+    <string name="about_project"></string>
+    <string name="image_transition">image_trans_name</string>
+    <string name="app_download_url"></string>
+    <string name="cache_clear_success">清理成功</string>
+    <string name="tips_keyword_cannot_null">请输入搜索关键词</string>
+    <string name="tips_no_collect">暂无收藏</string>
+    <string name="about">关于</string>
+
+</resources>
